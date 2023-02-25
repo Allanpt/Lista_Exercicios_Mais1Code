@@ -1,0 +1,1 @@
+// Faça uma Função usando FOR que some os números de 1 a 5 e imprime a soma no console

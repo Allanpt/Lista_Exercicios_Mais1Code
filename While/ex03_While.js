@@ -1,0 +1,1 @@
+// Faça uma Função usando While que imprime uma tabela de multiplicação de 5 => (5 x 0 = 0)
